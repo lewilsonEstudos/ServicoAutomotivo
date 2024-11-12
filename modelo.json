@@ -1,0 +1,156 @@
+{
+  "servicos": [
+    {
+      "id": "1",
+      "veiculo": "Fox",
+      "servico": "troca de óleo",
+      "telefone": "(61) 9.9111-1111",
+      "mecanico": "Tião da rosca",
+      "valor": "10.00"
+    },
+    {
+      "id": "2",
+      "veiculo": "Gol",
+      "servico": "alinhamento e balanceamento",
+      "telefone": "(61) 9.9222-2222",
+      "mecanico": "Zé da Biela",
+      "valor": "50.00"
+    },
+    {
+      "id": "3",
+      "veiculo": "Civic",
+      "servico": "troca de pneus",
+      "telefone": "(61) 9.9333-3333",
+      "mecanico": "João do Pneu",
+      "valor": "200.00"
+    },
+    {
+      "id": "4",
+      "veiculo": "Onix",
+      "servico": "troca de pastilhas de freio",
+      "telefone": "(61) 9.9444-4444",
+      "mecanico": "Manoel da Oficina",
+      "valor": "150.00"
+    },
+    {
+      "id": "5",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "6",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "7",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "8",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "9",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "10",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "11",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "12",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "13",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "14",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "15",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "16",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "17",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "18",
+      "veiculo": "Corolla",
+      "servico": "revisão completa",
+      "telefone": "(61) 9.9555-5555",
+      "mecanico": "Chico da Revisão",
+      "valor": "350.00"
+    },
+    {
+      "id": "19",
+      "veiculo": "Ferrari",
+      "servico": "troca de motor",
+      "telefone": "61 9.5555-3030",
+      "mecanico": "Pedrinho Roncador",
+      "valor": "5000.00"
+    }
+  ]
+}
